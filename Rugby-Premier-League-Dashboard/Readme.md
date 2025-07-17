@@ -1,4 +1,5 @@
 🏉 Rugby Premier League Dashboard (Tableau)
+
 This project presents a comprehensive Tableau dashboard built using detailed match and player-level data from India’s first Rugby Premier League. The dashboard delivers analytical insights into team performance, player comparisons, match statistics, and performance trends — all designed for storytelling and visual clarity.
 
 📌 Project Highlights
@@ -48,9 +49,11 @@ rpl_players_data.csv – Cleaned player-level dataset
 
 rpl_merged_dataset.csv – Match-level performance summary
 
+
 🌐 Live Dashboard
 🔗 View it on Tableau Public:
-👉 Rugby Premier League Dashboard – Sachin Gupta
+👉 [Rugby Premier League Dashboard – Sachin Gupta](https://lnkd.in/g6UAypsh)
+
 
 📣 Feedback Welcome!
 This project is part of my sports analytics portfolio. If you’re a fellow analyst, rugby enthusiast, or Tableau expert, I’d love to hear your feedback.
