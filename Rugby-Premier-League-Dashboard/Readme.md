@@ -41,15 +41,12 @@ Position-wise filtering: Forwards, Backs, Hybrids
 
 
 📂 Files Included
+
 RugbyPremierLeague.twbx – Tableau packaged workbook
 
-players_data.csv – Cleaned player-level dataset
+rpl_players_data.csv – Cleaned player-level dataset
 
-match_summary.csv – Match-level performance summary
-
-storyboard.pdf – Storyboard design for Tableau
-
-dashboard_thumbnail.png – Custom thumbnail for Tableau Public
+rpl_merged_dataset.csv – Match-level performance summary
 
 🌐 Live Dashboard
 🔗 View it on Tableau Public:
