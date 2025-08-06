@@ -6,7 +6,7 @@ import base64
 import zipfile
 
 with zipfile.ZipFile("ipl_phase_dataset.zip", 'r') as zip_ref:
-    zip_ref.extractall("data")
+    zip_ref.extractall()
 
 def get_base64_image(image_path):
     with open(image_path, "rb") as img_file:
@@ -38,7 +38,7 @@ def load_team_bowling_stats():
 
 @st.cache_data
 def load_team_stats():
-    return pd.read_csv('data/ipl_phase_dataset.csv')
+    return pd.read_csv('ipl_phase_dataset.csv')
 
 @st.cache_data
 def load_player_batting():
@@ -509,3 +509,4 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
