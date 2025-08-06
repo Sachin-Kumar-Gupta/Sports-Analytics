@@ -13,12 +13,12 @@ if os.path.exists(zip_path):
 else:
     st.warning("Dataset ZIP not found — loading pre-extracted files.")
 
-#def get_base64_image(image_path):
-#    with open(image_path, "rb") as img_file:
-#        return base64.b64encode(img_file.read()).decode()
+def get_base64_image(image_path):
+    with open(image_path, "rb") as img_file:
+        return base64.b64encode(img_file.read()).decode()
 
-#CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
-#IMAGE_PATH = os.path.join(CURRENT_DIR, 'images', 'welcome.png')
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+IMAGE_PATH = os.path.join(CURRENT_DIR, 'images', 'welcome.png')
 
 # Page configuration for wide layout and custom title
 st.set_page_config(
@@ -46,7 +46,7 @@ def load_team_bowling_stats():
 
 @st.cache_data
 def load_team_stats():
-    return pd.read_csv('ipl_phase_dataset.csv')
+    return pd.read_csv('data/ipl_phase_dataset.csv')
 
 @st.cache_data
 def load_player_batting():
@@ -517,6 +517,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
