@@ -6,26 +6,7 @@ import base64
 import zipfile
 import os
 
-st.markdown("""
-    <style>
-    /* Hide horizontal scrollbar */
-    body::-webkit-scrollbar {
-        display: none;
-    }
-
-    /* For Firefox */
-    body {
-        scrollbar-width: none;
-        -ms-overflow-style: none;
-    }
-
-    /* Optional: Hide overflow from main container */
-    .main {
-        overflow-x: hidden;
-        overflow-y: hidden;
-    }
-    </style>
-""", unsafe_allow_html=True)
+st.set_page_config(layout="wide")  # Set layout to wide to prevent horizontal overflow
 
 zip_path = "Cricket/IPL_Analysis/ipl_phase_dataset.zip"
 if os.path.exists(zip_path):
@@ -538,6 +519,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
