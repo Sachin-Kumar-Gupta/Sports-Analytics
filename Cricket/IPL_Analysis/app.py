@@ -13,12 +13,12 @@ if os.path.exists(zip_path):
 else:
     st.warning("Dataset ZIP not found — loading pre-extracted files.")
 
-def get_base64_image(image_path):
-    with open(image_path, "rb") as img_file:
-        return base64.b64encode(img_file.read()).decode()
+#def get_base64_image(image_path):
+#    with open(image_path, "rb") as img_file:
+#        return base64.b64encode(img_file.read()).decode()
 
-CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
-IMAGE_PATH = os.path.join(CURRENT_DIR, 'images', 'welcome.png')
+#CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+#IMAGE_PATH = os.path.join(CURRENT_DIR, 'images', 'welcome.png')
 
 # Page configuration for wide layout and custom title
 st.set_page_config(
@@ -99,9 +99,9 @@ st.markdown("""
 
 # Image for home page
 # -------
-with open(IMAGE_PATH, "rb") as f:
-    data = f.read()
-    img_base64 = base64.b64encode(data).decode()
+#with open(IMAGE_PATH, "rb") as f:
+#    data = f.read()
+#    img_base64 = base64.b64encode(data).decode()
     
 if analysis_type == 'Select':
     img_base64 = get_base64_image("images/welcome.png")
@@ -517,6 +517,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
