@@ -6,20 +6,6 @@ import base64
 import zipfile
 import os
 
-zip_path = "Cricket/IPL_Analysis/ipl_phase_dataset.zip"
-if os.path.exists(zip_path):
-    with zipfile.ZipFile(zip_path, "r") as zip_ref:
-        zip_ref.extractall("Cricket/IPL_Analysis")
-else:
-    st.warning("Dataset ZIP not found — loading pre-extracted files.")
-
-def get_base64_image(image_path):
-    with open(image_path, "rb") as img_file:
-        return base64.b64encode(img_file.read()).decode()
-
-CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
-IMAGE_PATH = os.path.join(CURRENT_DIR, 'images', 'welcome.png')
-
 st.markdown("""
     <style>
     /* Hide horizontal scrollbar */
@@ -40,6 +26,20 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
+
+zip_path = "Cricket/IPL_Analysis/ipl_phase_dataset.zip"
+if os.path.exists(zip_path):
+    with zipfile.ZipFile(zip_path, "r") as zip_ref:
+        zip_ref.extractall("Cricket/IPL_Analysis")
+else:
+    st.warning("Dataset ZIP not found — loading pre-extracted files.")
+
+def get_base64_image(image_path):
+    with open(image_path, "rb") as img_file:
+        return base64.b64encode(img_file.read()).decode()
+
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+IMAGE_PATH = os.path.join(CURRENT_DIR, 'images', 'welcome.png')
 
 # Page configuration for wide layout and custom title
 st.set_page_config(
@@ -538,6 +538,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
