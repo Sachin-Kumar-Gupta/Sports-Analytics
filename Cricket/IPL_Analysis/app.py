@@ -6,7 +6,7 @@ import base64
 import zipfile
 import os
 
-zip_path = "data/ipl_phase_dataset.zip"
+zip_path = "Cricket/IPL_Analysis/data/ipl_phase_dataset.zip"
 if os.path.exists(zip_path):
     with zipfile.ZipFile(zip_path, "r") as zip_ref:
         zip_ref.extractall("data")
@@ -517,6 +517,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
