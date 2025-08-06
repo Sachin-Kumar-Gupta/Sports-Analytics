@@ -7,5 +7,3 @@ seaborn
 scikit-learn
 openpyxl
 zipfile36
-base64
-
