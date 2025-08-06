@@ -9,7 +9,7 @@ import os
 zip_path = "Cricket/IPL_Analysis/ipl_phase_dataset.zip"
 if os.path.exists(zip_path):
     with zipfile.ZipFile(zip_path, "r") as zip_ref:
-        zip_ref.extractall()
+        zip_ref.extractall("Cricket/IPL_Analysis")
 else:
     st.warning("Dataset ZIP not found — loading pre-extracted files.")
 
@@ -19,6 +19,27 @@ def get_base64_image(image_path):
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 IMAGE_PATH = os.path.join(CURRENT_DIR, 'images', 'welcome.png')
+
+st.markdown("""
+    <style>
+    /* Hide horizontal scrollbar */
+    body::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* For Firefox */
+    body {
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+    }
+
+    /* Optional: Hide overflow from main container */
+    .main {
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+    </style>
+""", unsafe_allow_html=True)
 
 # Page configuration for wide layout and custom title
 st.set_page_config(
@@ -46,7 +67,7 @@ def load_team_bowling_stats():
 
 @st.cache_data
 def load_team_stats():
-    return pd.read_csv('ipl_phase_dataset.csv')
+    return pd.read_csv('Cricket/IPL_Analysis/ipl_phase_dataset.csv')
 
 @st.cache_data
 def load_player_batting():
@@ -517,6 +538,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
