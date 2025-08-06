@@ -107,7 +107,7 @@ if analysis_type == 'Select':
     #img_base64 = get_base64_image("Cricket/IPL_Analysis/images/welcome.png")
     st.markdown(f"""
     <div style='text-align:center; margin-top:40px;'>
-        <img src="images/welcome.png" width="90" style="margin-bottom:10px;">
+        <img src="data:Cricket/IPL_Analysis/image/png;base64,{img_base64}" width="90" style="margin-bottom:10px;">
         <h2 style='color:#FFD700; margin-bottom:0;'>Welcome to IPL Analytics</h2>
         <p style='color:#FFD700;'>Select Analysis type to explore detailed performance insights for:</p>
         <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap; margin-top:15px;">
@@ -517,6 +517,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
