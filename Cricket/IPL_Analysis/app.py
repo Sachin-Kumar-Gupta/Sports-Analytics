@@ -96,7 +96,7 @@ st.markdown("""
 
 # Image for home page
 # -------
-with open("images/welcome.png", "rb") as f:
+with open("/images/welcome.png", "rb") as f:
     data = f.read()
     img_base64 = base64.b64encode(data).decode()
     
@@ -514,6 +514,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
