@@ -38,31 +38,31 @@ st.markdown("""
 # ---- Data Loaders ----
 @st.cache_data
 def load_team_batting_stats():
-    return pd.read_csv('IPL_Analysis/season_team_batting_phase.csv')
+    return pd.read_csv('Cricket/IPL_Analysis/season_team_batting_phase.csv')
 
 @st.cache_data
 def load_team_bowling_stats():
-    return pd.read_csv('IPL_Analysis/season_team_bowling_phase.csv')
+    return pd.read_csv('Cricket/IPL_Analysis/season_team_bowling_phase.csv')
 
 @st.cache_data
 def load_team_stats():
-    return pd.read_csv('IPL_Analysis/ipl_phase_dataset.csv')
+    return pd.read_csv('Cricket/IPL_Analysis/ipl_phase_dataset.csv')
 
 @st.cache_data
 def load_player_batting():
-    return pd.read_csv('IPL_Analysis/player_batting_20_25.csv')
+    return pd.read_csv('Cricket/IPL_Analysis/player_batting_20_25.csv')
 
 @st.cache_data
 def load_player_bowling():
-    return pd.read_csv('IPL_Analysis/player_bowling_20_25.csv')
+    return pd.read_csv('Cricket/IPL_Analysis/player_bowling_20_25.csv')
 
 @st.cache_data
 def load_batting_stats():
-    return pd.read_csv('IPL_Analysis/season_phase_batting_df.csv')
+    return pd.read_csv('Cricket/IPL_Analysis/season_phase_batting_df.csv')
 
 @st.cache_data
 def load_bowling_stats():
-    return pd.read_csv('IPL_Analysis/season_phase_bowling_df.csv')
+    return pd.read_csv('Cricket/IPL_Analysis/season_phase_bowling_df.csv')
 
 # ---- Main App ----
 analytics_option = {"Select" : "Select",
@@ -104,7 +104,7 @@ with open(IMAGE_PATH, "rb") as f:
     img_base64 = base64.b64encode(data).decode()
     
 if analysis_type == 'Select':
-    #img_base64 = get_base64_image("IPL_Analysis/images/welcome.png")
+    #img_base64 = get_base64_image("Cricket/IPL_Analysis/images/welcome.png")
     st.markdown(f"""
     <div style='text-align:center; margin-top:40px;'>
         <img src="images/welcome.png" width="90" style="margin-bottom:10px;">
@@ -517,6 +517,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
