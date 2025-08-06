@@ -1,7 +1,7 @@
-📂 IPL Phase-Wise Analysis & Scouting Dashboard
+# 📂 IPL Phase-Wise Analysis & Scouting Dashboard
 A lightweight Streamlit app that crunches IPL ball-by-ball data, evaluates batting and bowling performance by Powerplay, Middle overs and Death overs, then surfaces an unretained “Top XI” squad based on five-season rankings.
 
-✨ Features
+# ✨ Features
 
 - 📊 **Phase-Wise Analysis**: Evaluate batting and bowling metrics across different overs phases.
 - 📈 **Seasonal Trends**: Track player performance evolution across IPL seasons.
@@ -10,12 +10,12 @@ A lightweight Streamlit app that crunches IPL ball-by-ball data, evaluates batti
 - 💡 **Performance Metrics**: Economy rate, strike rate, average, dot ball %, boundary %, etc.
 - 📷 Visualizations: Interactive line plots, metric cards, and stylish UI.
 
-Dynamic leaderboards
+# Dynamic leaderboards
 Adjustable filters (phase, metric, top N) instantly reorder rankings.
 
 Orange Cap / Purple Cap metrics with cricket-themed emojis.
 
-🔍 Scouting panel
+# 🔍 Scouting panel
 Hand-picked recommendations (Openers, Middle Order, Bowlers) plus the auto-generated Top XI of players not retained by any franchise.
 
 Clean dark-gold UI
