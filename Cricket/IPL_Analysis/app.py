@@ -46,7 +46,7 @@ def load_team_bowling_stats():
 
 @st.cache_data
 def load_team_stats():
-    return pd.read_csv('Cricket/IPL_Analysis/ipl_phase_dataset.csv')
+    return pd.read_csv('ipl_phase_dataset.csv')
 
 @st.cache_data
 def load_player_batting():
@@ -517,6 +517,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
