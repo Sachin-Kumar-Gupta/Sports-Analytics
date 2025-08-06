@@ -9,7 +9,7 @@ import os
 zip_path = "Cricket/IPL_Analysis/ipl_phase_dataset.zip"
 if os.path.exists(zip_path):
     with zipfile.ZipFile(zip_path, "r") as zip_ref:
-        zip_ref.extractall("data")
+        zip_ref.extractall()
 else:
     st.warning("Dataset ZIP not found — loading pre-extracted files.")
 
@@ -517,6 +517,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
