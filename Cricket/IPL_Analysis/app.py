@@ -5,7 +5,7 @@ import plotly.express as px
 import base64
 import zipfile
 
-with zipfile.ZipFile("ipl_phase_dataset.zip", 'r') as zip_ref:
+with zipfile.ZipFile("data/ipl_phase_dataset.zip", 'r') as zip_ref:
     zip_ref.extractall()
 
 def get_base64_image(image_path):
@@ -509,5 +509,6 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
