@@ -4,9 +4,14 @@ import pandas as pd
 import plotly.express as px
 import base64
 import zipfile
+import os
 
-with zipfile.ZipFile("data/ipl_phase_dataset.zip", 'r') as zip_ref:
-    zip_ref.extractall()
+zip_path = "data/ipl_phase_dataset.zip"
+if os.path.exists(zip_path):
+    with zipfile.ZipFile(zip_path, "r") as zip_ref:
+        zip_ref.extractall("data")
+else:
+    st.warning("Dataset ZIP not found — loading pre-extracted files.")
 
 def get_base64_image(image_path):
     with open(image_path, "rb") as img_file:
@@ -509,6 +514,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
