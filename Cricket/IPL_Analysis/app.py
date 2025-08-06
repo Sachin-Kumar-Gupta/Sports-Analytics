@@ -510,3 +510,4 @@ elif analysis_type == 'Scouting Recommendation':
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
 
+
