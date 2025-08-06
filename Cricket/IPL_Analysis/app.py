@@ -17,6 +17,9 @@ def get_base64_image(image_path):
     with open(image_path, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode()
 
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+IMAGE_PATH = os.path.join(CURRENT_DIR, 'images', 'welcome.png')
+
 # Page configuration for wide layout and custom title
 st.set_page_config(
     page_title="IPL Analytics Dashboard",
@@ -96,7 +99,7 @@ st.markdown("""
 
 # Image for home page
 # -------
-with open("/images/welcome.png", "rb") as f:
+with open(IMAGE_PATH, "rb") as f:
     data = f.read()
     img_base64 = base64.b64encode(data).decode()
     
@@ -514,6 +517,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
