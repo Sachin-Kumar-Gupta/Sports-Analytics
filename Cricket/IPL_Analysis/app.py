@@ -120,21 +120,21 @@ if analysis_type == 'Select':
     """, unsafe_allow_html=True)
 # ------
 team_images = {
-    "CSK": "images/CSK.png",
-    "DC" : "images/DC.png",
-    "DD" : "images/DD.png",
-    "GL" : "images/GL.png",
-    "GT" : "images/GT.png",
-    'KKR' : "images/KKR.png",
-    'PBKS' : "images/PBKS.png",
-    'RR' : "images/RR.png",
-    'Kochi Tuskers Kerala' : "images/KTK.png",
-    'Pune Warriors' : "images/PWI.png", 
-    'Rising Pune Supergiants' : "images/RPS.png",
-    'LSG' : "images/LSG.png",
-    "MI": "images/MI.png",
-    "RCB": "images/RCB.png",
-    "SRH": "images/SRH.png"}
+    "CSK": "Cricket/IPL_Analysis/images/CSK.png",
+    "DC" : "Cricket/IPL_Analysis/images/DC.png",
+    "DD" : "Cricket/IPL_Analysis/images/DD.png",
+    "GL" : "Cricket/IPL_Analysis/images/GL.png",
+    "GT" : "Cricket/IPL_Analysis/images/GT.png",
+    'KKR' : "Cricket/IPL_Analysis/images/KKR.png",
+    'PBKS' : "Cricket/IPL_Analysis/images/PBKS.png",
+    'RR' : "Cricket/IPL_Analysis/images/RR.png",
+    'Kochi Tuskers Kerala' : "Cricket/IPL_Analysis/images/KTK.png",
+    'Pune Warriors' : "Cricket/IPL_Analysis/images/PWI.png", 
+    'Rising Pune Supergiants' : "Cricket/IPL_Analysis/images/RPS.png",
+    'LSG' : "Cricket/IPL_Analysis/images/LSG.png",
+    "MI": "Cricket/IPL_Analysis/images/MI.png",
+    "RCB": "Cricket/IPL_Analysis/images/RCB.png",
+    "SRH": "Cricket/IPL_Analysis/images/SRH.png"}
 
 # -------------------------
 # 1. Define Plotting Functions at the Top of Script
@@ -517,6 +517,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
