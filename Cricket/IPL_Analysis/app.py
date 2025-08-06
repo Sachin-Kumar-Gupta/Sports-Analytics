@@ -104,7 +104,7 @@ st.markdown("""
 #    img_base64 = base64.b64encode(data).decode()
     
 if analysis_type == 'Select':
-    img_base64 = get_base64_image("images/welcome.png")
+    #img_base64 = get_base64_image("images/welcome.png")
     st.markdown(f"""
     <div style='text-align:center; margin-top:40px;'>
         <img src="images/welcome.png" width="90" style="margin-bottom:10px;">
@@ -517,6 +517,7 @@ elif analysis_type == 'Scouting Recommendation':
         st.write("")
 
 st.markdown("---\n*Created by Sachin Kumar Gupta — IPL Phase Portfolio*")
+
 
 
 
