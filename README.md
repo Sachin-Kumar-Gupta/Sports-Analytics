@@ -14,6 +14,7 @@ Each subfolder contains an individual mini-project with its own dataset, code, a
 |--------|-------------|
 | `ACWR-Player-Load` | Analyzed **Acute:Chronic Workload Ratio (ACWR)** using wearable training data to flag injury risk across players. |
 | `Rugby-Premier-League-Dashboard` | Built a complete **Tableau dashboard** to analyze player and team-level performance from India’s first Rugby Premier League. |
+| `IPL-Phase-Analysis` | Built a Python + Streamlit tool to analyze IPL performances by innings phase (Powerplay, Middle, Death), auto-rank players using multi-season data, and generate scouting recommendations for talent identification. |
 | `Coming Soon` | More soccer, basketball, and match prediction analytics coming up! |
 
 ---
