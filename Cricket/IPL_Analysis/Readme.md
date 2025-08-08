@@ -21,3 +21,6 @@ Hand-picked recommendations (Openers, Middle Order, Bowlers) plus the auto-gener
 Clean dark-gold UI
 Sidebar colours match IPL branding; tables hide indices for a polished look.
 
+# App Link
+ https://ipl-phase-analytics.streamlit.app/
+
