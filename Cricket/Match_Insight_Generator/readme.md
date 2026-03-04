@@ -21,7 +21,6 @@ It calculates player performance metrics, including **Player Performance Index (
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/yourusername/ipl-insights.git
 cd ipl-insights
 
@@ -49,8 +48,9 @@ ipl-insights/
 
 ## 📌 Author
 
-👤 **Sachin Kumar Gupta**   
-🔗 [LinkedIn](linkedin.com/in/sachingupta-ds) | [Portfolio]([sachin-kumar-gupta.github.io ](https://sachin-kumar-gupta.github.io/portfolio/#home))
+👤 **Sachin Kumar Gupta**
+
+🔗 [LinkedIn](linkedin.com/in/sachingupta-ds) | [Portfolio](https://sachin-kumar-gupta.github.io/portfolio/#home)
 
 ---
 
