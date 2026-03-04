@@ -2,6 +2,7 @@
 import streamlit as st
 import pandas as pd
 from match_insights import generate_insights, load_and_clean_data
+import os
 
 # ----------------------------
 # 1️⃣ Load data and preprocess
