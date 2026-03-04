@@ -10,7 +10,7 @@ import os
 st.title("🏏 IPL Match Insights Dashboard")
 
 # Load your CSV (ball-by-ball data)
-ball_by_ball_path = os.path.join("data","ipl_ball_by_ball.csv")
+ball_by_ball_path = os.path.join("Cricket/Match_Insight_Generator","ipl_ball_by_ball.csv")
 df, batting_stats_unique, bowling_stats_unique = load_and_clean_data(ball_by_ball_path)
 
 # ----------------------------
