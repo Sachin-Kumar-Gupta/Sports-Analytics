@@ -68,4 +68,4 @@ Data Analyst & AI Developer
 🔗 [LinkedIn](linkedin.com/in/sachingupta-ds)
  | [GitHub](https://github.com/Sachin-Kumar-Gupta)
 
- **App Link :**
+ **App Link :** https://football-scouting.streamlit.app/
