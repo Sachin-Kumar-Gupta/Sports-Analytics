@@ -11,9 +11,9 @@ import plotly.express as px
 # ----------------------------
 @st.cache_data
 def load_data():
-    lineups_df = pd.read_csv("processed_data/lineups_clean.csv")
-    season_stats = pd.read_csv("processed_data/season_stats_clean.csv")
-    player_clusters = pd.read_csv("processed_data/player_clusters.csv")
+    lineups_df = pd.read_csv("Football/Football_Player_Scouting_Dashboard/processed_data/lineups_clean.csv")
+    season_stats = pd.read_csv("Football/Football_Player_Scouting_Dashboard/processed_data/season_stats_clean.csv")
+    player_clusters = pd.read_csv("Football/Football_Player_Scouting_Dashboard/processed_data/player_clusters.csv")
     return lineups_df, season_stats, player_clusters
 
 lineups_df, season_stats, player_clusters = load_data()
@@ -144,4 +144,5 @@ kmeans = KMeans(n_clusters=4, random_state=42).fit(X)
 filtered_stats['cluster'] = kmeans.labels_
 
 st.write("Players colored by cluster:")
+
 st.dataframe(filtered_stats[['player_name','cluster'] + radar_stats])
