@@ -1,0 +1,770 @@
+player_id,player_name,cluster
+2935.0,Nordi Mukiele Mulere,0.0
+2937.0,Christ-Emmanuel Faitout Maouassa,4.0
+2946.0,Frédéric Guilbert,4.0
+2950.0,Jonas Martin,4.0
+2973.0,Christophe Hérelle,4.0
+2974.0,Saîf-Eddine Khaoui,4.0
+2989.0,Alexander Djiku,4.0
+2990.0,Benjamin André,0.0
+2995.0,Ángel Fabián Di María Hernández,4.0
+2997.0,Ibrahima Niane,4.0
+2999.0,Presnel Kimpembe,0.0
+3007.0,Nanitamo Jonathan Ikoné,4.0
+3009.0,Kylian Mbappé Lottin,0.0
+3013.0,Nicolas Pépé,4.0
+3053.0,Leroy Sané,0.0
+3070.0,Florent Mollet,4.0
+3071.0,Pierrick Capelle,4.0
+3091.0,Moussa Sissoko,4.0
+3105.0,Gauthier Hein,4.0
+3117.0,Lucas Tousart,4.0
+3130.0,Gaël Kakuta,4.0
+3143.0,Andrei Girotto,0.0
+3166.0,Marco Verratti,4.0
+3185.0,Thomas Mangani,4.0
+3186.0,Julian Draxler,0.0
+3190.0,Gaëtan Laborde,4.0
+3195.0,Mehdi Zeffane,4.0
+3196.0,Wahbi Khazri,4.0
+3199.0,Pierre Lees Melou,4.0
+3210.0,Valère Germain,4.0
+3216.0,Nuno Miguel da Costa Jóia,4.0
+3218.0,Marcos Paulo Mesquita Lopes,4.0
+3224.0,Arnaud Souquet,4.0
+3230.0,Alassane Pléa,0.0
+3235.0,Ludovic Blas,4.0
+3256.0,Nicolas Pallois,4.0
+3257.0,Steve Michel Mounié,4.0
+3324.0,Eric Bertrand Bailly,4.0
+3363.0,Marcus Coco,4.0
+3365.0,Valentin Rongier,4.0
+3375.0,Adrien Thomasson,4.0
+3377.0,Timothy Weah,4.0
+3385.0,Alexis Alejandro Sánchez Sánchez,4.0
+3389.0,Eliaquim Mangala,4.0
+3414.0,Vincent Pajot,4.0
+3420.0,Rémy Cabella,4.0
+3426.0,Benjamin Bourigeaud,4.0
+3429.0,Adrien Hunou,4.0
+3436.0,Idrissa Gana Gueye,4.0
+3451.0,Alexandre Lacazette,4.0
+3491.0,Dimitri Payet,4.0
+3493.0,Emre Can,4.0
+3500.0,Granit Xhaka,4.0
+3517.0,Aaron Ramsey,4.0
+3533.0,Xherdan Shaqiri,4.0
+3548.0,Angelo Fulgini,0.0
+3550.0,Flavien Tait,4.0
+3551.0,Karl Brillant Toko Ekambi,4.0
+3567.0,Georginio Wijnaldum,4.0
+3593.0,Renato Júnior Luz Sanches,0.0
+3606.0,Ander Herrera Agüera,4.0
+3676.0,Jérôme Roussillon,4.0
+3680.0,Thiago Henrique Mendes Ribeiro,4.0
+3763.0,Ruben Aguilar,0.0
+3767.0,Ellyes Joris Skhiri,4.0
+3770.0,Thomas Monconduit,4.0
+3951.0,Mario Lemina,4.0
+4036.0,Bradden Inman,4.0
+4106.0,Ike Ugbo,4.0
+4121.0,Stephy Alvaro Mavididi,0.0
+4256.0,Jonathan Bamba,4.0
+4260.0,Romain Hamouma,5.0
+4275.0,Ross Barkley,4.0
+4320.0,Neymar da Silva Santos Junior,4.0
+4372.0,Marcos Aoás Corrêa,0.0
+4378.0,Rominigue Kouamé N''Guessan,4.0
+4381.0,Anwar El Ghazi,1.0
+4403.0,Kalifa Coulibaly,4.0
+4407.0,Sanjin Prcić,4.0
+4412.0,Samuel Moutoussamy,4.0
+4420.0,Martin Terrier,4.0
+4433.0,Boubacar Kamara,4.0
+4435.0,Amine Gouiri,0.0
+4439.0,Abdoulaye Bamba,4.0
+4476.0,Nicolas Louis Marcel Cozza,4.0
+4777.0,Farid Boulaya,4.0
+4840.0,Massadio Haïdara,1.0
+4894.0,Zaydou Youssouf,0.0
+4898.0,Ignatius Kpene Ganago,4.0
+4903.0,Yacine Adli,4.0
+5177.0,Aleksandr Golovin,0.0
+5201.0,Sergio Ramos García,0.0
+5243.0,Amine Harit,4.0
+5245.0,Achraf Hakimi Mouh,4.0
+5460.0,Andrej Kramarić,4.0
+5480.0,Corentin Tolisso,4.0
+5503.0,Lionel Andrés Messi Cuccittini,0.0
+5536.0,Yussuf Yurary Poulsen,1.0
+5555.0,Julian Brandt,4.0
+5557.0,Timo Werner,4.0
+5559.0,Marco Reus,4.0
+5562.0,Thomas Müller,4.0
+5572.0,Mats Hummels,0.0
+5578.0,Jérôme Boateng,4.0
+5579.0,Joshua Kimmich,4.0
+5597.0,Keylor Navas Gamboa,0.0
+5602.0,Cristian Gamboa Luna,4.0
+5623.0,Jae-Sung Lee,4.0
+5655.0,Dylan Daniel Mahmoud Bronn,4.0
+5661.0,M''Baye Babacar Niang,4.0
+5665.0,Arkadiusz Milik,4.0
+5723.0,Gelson Dany Batalha Martins,4.0
+6302.0,Kasper Dolberg,4.0
+6307.0,Duje Ćaleta-Car,4.0
+6324.0,Leon Goretzka,4.0
+6401.0,Kevin Gameiro,0.0
+6583.0,Carlos Soler Barragán,4.0
+6655.0,Fabián Ruiz Peña,4.0
+6661.0,Ryad Boudebouz,4.0
+6716.0,Sébastien Corchia,4.0
+6720.0,Pablo Sarabia García,4.0
+6723.0,Wissam Ben Yedder,0.0
+6874.0,Ermedin Demirović,4.0
+6971.0,Cengiz Ünder,4.0
+6981.0,Gerson Santos da Silva,4.0
+6982.0,Maxime Gonalons,4.0
+6985.0,Robin Gosens,0.0
+6987.0,Mauro Emanuel Icardi Rivero,0.0
+7036.0,Gianluigi Donnarumma,1.0
+7044.0,Patrik Schick,4.0
+7083.0,Anthony Jung,4.0
+7153.0,Jordan Veretout,4.0
+7173.0,Leonardo Bonucci,4.0
+7190.0,Denis Bouanga,4.0
+7191.0,Mathias Pereira Lage,0.0
+7198.0,Franck Honorat,4.0
+7199.0,Vincent Le Goff,0.0
+7206.0,Fabien Centonze,4.0
+7208.0,Ludovic Ajorque,4.0
+7219.0,Florian Tardieu,4.0
+7241.0,Arnaud Nordin,4.0
+7252.0,Jonathan Clauss,4.0
+7260.0,Laurent Abergel,4.0
+7273.0,Jean-Kevin Duverne,4.0
+7277.0,Cyrille Bayala,4.0
+7292.0,Mathieu Coutadeur,4.0
+7317.0,Rayan Ny Aina Arnaldo Raveloson,0.0
+7322.0,Romain Del Castillo,4.0
+7324.0,Jonathan Gradit,4.0
+7325.0,Haris Belkebla,4.0
+7342.0,Hamza Sakhi,4.0
+7345.0,Mattéo Guendouzi Olié,4.0
+7350.0,Birama Touré,0.0
+7360.0,Julian Jeanvier,4.0
+7364.0,Xavier Chavalerin,4.0
+7366.0,Youssouf Koné,4.0
+7367.0,Grejohn Kyei,4.0
+7374.0,Rémi Oudin,4.0
+7375.0,Theoson Jordan Siebatcheu,4.0
+7386.0,Harold Moukoudi,5.0
+7410.0,Jason Berthomier,4.0
+7422.0,Ibrahima Sissoko,4.0
+7426.0,Jean-Charles Castelletto,0.0
+7434.0,Mathias Autret,4.0
+7440.0,Vincent Marchetti,4.0
+7452.0,Téji Savanier,4.0
+7525.0,Gaëtan Perrin,5.0
+7536.0,Didier Lamkel Zé,4.0
+7570.0,Julien Laporte,4.0
+7608.0,Nelson Sissoko,4.0
+7626.0,Johan Gastien,4.0
+7635.0,Gaëtan Charbonnier,0.0
+7715.0,Bevic Moussiti-Oko,4.0
+7791.0,Seko Fofana,4.0
+7796.0,Silvan Widmer,4.0
+7811.0,Mickaël Barreto,0.0
+7829.0,Wout Weghorst,4.0
+7979.0,Przemysław Frankowski,4.0
+8038.0,Igor Angulo Albóniga,4.0
+8056.0,Fredrik Jensen,4.0
+8063.0,Justin Kluivert,4.0
+8105.0,Pol Mikel Lirola Kosok,4.0
+8150.0,Francisco Javier Hernández González,4.0
+8178.0,Jean-Claude Billong,4.0
+8202.0,Ariel Borysiuk,0.0
+8207.0,Dominik Kohr,4.0
+8211.0,Benjamin Henrichs,4.0
+8215.0,Kevin Volland,0.0
+8221.0,Jonathan Tah,4.0
+8226.0,Dan-Axel Zagadou,0.0
+8227.0,Mario Götze,4.0
+8231.0,Yannick Gerhardt,4.0
+8235.0,Maximilian Arnold,0.0
+8241.0,Felix Passlack,0.0
+8245.0,Felix Uduokhai,4.0
+8343.0,Stijn Spierings,4.0
+8375.0,Sheraldo Becker,4.0
+8397.0,Kevin Vogt,0.0
+8400.0,Serge Gnabry,4.0
+8401.0,Maximilian Eggestein,4.0
+8403.0,Nadiem Amiri,4.0
+8406.0,Florian Kainz,4.0
+8454.0,Mohamed Bayo,4.0
+8506.0,Konrad Laimer,4.0
+8509.0,Willi Orban,4.0
+8511.0,Thilo Kehrer,4.0
+8518.0,Marcel Sabitzer,0.0
+8519.0,Dayotchanculle Upamecano,4.0
+8538.0,Waldemar Anton,4.0
+8546.0,Niclas Füllkrug,4.0
+8553.0,Abdou Diallo,4.0
+8584.0,Jonathas Cristian de Jesus,0.0
+8606.0,Emir Karic,4.0
+8623.0,Dejan Ljubicic,4.0
+8624.0,Marco Sahanek,4.0
+8676.0,Danny Vieira da Costa,4.0
+8769.0,Xaver Schlager,4.0
+8784.0,Romano Schmid,4.0
+8804.0,Jonas Hofmann,4.0
+8808.0,Matthias Ginter,4.0
+8826.0,Leonardo Bittencourt,4.0
+8924.0,Maximilian Wittek,5.0
+8931.0,Philipp Lienhart,4.0
+8938.0,Janik Haberer,0.0
+8949.0,Takuma Asano,4.0
+8960.0,Bernardo Fernandes da Silva Junior,0.0
+9088.0,Danilo Teodoro Soares,2.0
+9089.0,Anthony Losilla,4.0
+9102.0,Serhou Guirassy,0.0
+9110.0,Benedikt Gimber,4.0
+9125.0,Sargis Adamyan,4.0
+9159.0,Grischa Prömel,4.0
+9164.0,Christopher Trimmel,0.0
+9174.0,Marvin Friedrich,0.0
+9195.0,Robert Andrich,0.0
+9198.0,Niklas Dorsch,0.0
+9201.0,Nikola Dovedan,4.0
+9203.0,Norman Theuerkauf,4.0
+9209.0,Tim Skarke,0.0
+9221.0,Phillip Tietz,4.0
+9222.0,Fabian Holland,4.0
+9225.0,Marvin Mehlem,4.0
+9230.0,Christopher Antwi-Adjej,4.0
+9361.0,Houboulang Mendes,4.0
+9402.0,Rani Khedira,4.0
+9410.0,Marius Wolf,4.0
+9860.0,Florian Sotoca,4.0
+9981.0,Peter Hartley,4.0
+9989.0,Carl Gerard McHugh,4.0
+10012.0,Josha Mamadou Karaboue Vagnoman,4.0
+10040.0,Youcef Atal,4.0
+10336.0,Alejandro Grimaldo García,4.0
+10450.0,Colin Dagba,4.0
+10463.0,Sofiane Diop,0.0
+10475.0,Mahdi Camara,4.0
+10476.0,Timothée Kolodziejczak,4.0
+10480.0,Anthony Caci,0.0
+10688.0,Armand Lauriente,4.0
+10955.0,Harry Kane,4.0
+10956.0,Eric Dier,4.0
+11086.0,Burak Yılmaz,4.0
+11175.0,Diogo Filipe Monteiro Pinto Leite,0.0
+11278.0,Karim Onisiwo,4.0
+11279.0,Davie Selke,4.0
+11282.0,Vincenzo Grifo,4.0
+11382.0,Tim Kleindienst,4.0
+11391.0,Borja Iglesias Quintas,0.0
+11396.0,Florian Grillitsch,4.0
+11399.0,Robin Hack,4.0
+11532.0,Jean-Clair Todibo,5.0
+11814.0,Christoph Zimmermann,4.0
+11820.0,Kevin Danso,4.0
+11990.0,Youssouf Fofana,4.0
+12034.0,David Raum,0.0
+12064.0,Mama Samba Baldé,4.0
+12110.0,Farid El Melali,5.0
+12299.0,Marvin Ducksch,4.0
+12303.0,Kevin Stöger,0.0
+12318.0,Linton Maina,4.0
+12323.0,Florian Neuhaus,4.0
+12365.0,Alphonso Davies,4.0
+12387.0,Julian Ryerson,4.0
+12407.0,Maximilian Mittelstädt,4.0
+12411.0,Arne Maier,4.0
+12418.0,Lucas Höler,4.0
+12423.0,Jadon Sancho,0.0
+12557.0,Falaye Sacko,4.0
+12588.0,Alberth Josué Elis Martínez,4.0
+12629.0,Gerrit Holtmann,4.0
+12630.0,Ridle Bote Baku,4.0
+13292.0,Kevin Akpoguma,4.0
+13294.0,Robin Koch,0.0
+13315.0,Philipp Mwene,4.0
+13322.0,Greg Stewart,4.0
+13607.0,Airam López Cabrera,5.0
+13621.0,Danilo Luís Hélio Pereira,4.0
+13851.0,Cheick Oumar Doucoure,0.0
+15458.0,Sepp van den Berg,0.0
+15546.0,Matúš Bero,4.0
+15651.0,Juan Bernat Velasco,4.0
+15782.0,Thomas Foket,0.0
+15797.0,Matthias Bader,4.0
+15805.0,Hernán Daniel Santana Trujillo,0.0
+15854.0,Marco Friedl,4.0
+15869.0,Thomas Poppler Isherwood,4.0
+15879.0,Mattias Svanberg,4.0
+15890.0,Noussair Mazraoui,0.0
+16027.0,Kevin Mbabu,4.0
+16275.0,Ikoma Loïs Openda,4.0
+16294.0,Robert Skov,4.0
+16308.0,Leandro Daniel Paredes,4.0
+16462.0,Hatem Ben Arfa,4.0
+16532.0,Daniel Olmo Carvajal,4.0
+16554.0,Joakim Mæhle,4.0
+16557.0,Ruslan Malinovskiy,4.0
+17326.0,Banana Yaya,4.0
+18119.0,Elvis Rexhbeçaj,4.0
+18163.0,Moses Daddy-Ajala Simon,4.0
+18239.0,Fábio Pereira da Silva,4.0
+18343.0,Riad Nouri,5.0
+18952.0,Bonke Innocent,4.0
+19316.0,Roland Sallai,4.0
+19718.0,Jean-Ricner Bellegarde,4.0
+20814.0,Sebastiaan Bornauw,4.0
+20837.0,Marko Lešković,0.0
+20879.0,Mounaim El Idrissy,4.0
+20947.0,Atakan Karazor,4.0
+21026.0,Pape Gueye,4.0
+21217.0,Himad Abdelli,4.0
+21261.0,Jonas Older Wind,4.0
+21405.0,Branco van den Boomen,4.0
+21736.0,Zakaria Aboukhlal,4.0
+22067.0,Woo-Yeong Jeong,5.0
+22072.0,Khéphren Thuram-Ulien,4.0
+22097.0,Randal Kolo Muani,0.0
+22098.0,Azor Matusiwa,0.0
+22111.0,Dennis Appiah,0.0
+22137.0,Yohann Magnin,4.0
+22148.0,Bafodé Diakité,4.0
+22203.0,Luan Peres Petroni,4.0
+22343.0,Angel Gomes,4.0
+22600.0,Lucas Tolentino Coelho de Lima,4.0
+22911.0,Zakaria Diallo,2.0
+23252.0,Mihailo Ristić,0.0
+23331.0,Boubakar Kouyate,0.0
+23351.0,Keven Schlotterbeck,0.0
+23374.0,Jubal Rocha Mendes Junior,0.0
+23402.0,Leandro Barreiro Martins,4.0
+23498.0,Gonçalo Mendes Paciencia,4.0
+23527.0,Junya Ito,4.0
+23614.0,Chris Führich,4.0
+23632.0,Leo Leroy,4.0
+23640.0,Jonathan David,0.0
+23643.0,Brecht Dejaegere,4.0
+23650.0,Jeremy Doku,2.0
+23922.0,Maxime Busi,4.0
+24035.0,Álvaro Vázquez García,4.0
+24118.0,Nico Schlotterbeck,0.0
+24179.0,Olivier Deman,4.0
+24243.0,Brenden Aaronson,4.0
+24268.0,Ariday Cabrera Suárez,0.0
+24303.0,Joni Ensio Kauko,4.0
+24532.0,Jens Stage,4.0
+24665.0,Vivaldo Borges dos Santos Neto,4.0
+24702.0,Rasmus Nicolaisen,0.0
+24806.0,Mohamed Camara,4.0
+24815.0,Théo Sainte-Luce,4.0
+24845.0,Finn Ole Becker,4.0
+24849.0,Mikkel Kaufmann,0.0
+24860.0,Héctor Rodas Ramírez,0.0
+24901.0,Ismaël Chester Diallo,4.0
+24909.0,Moreto Moro Cassamã,0.0
+24946.0,Sacha Boey,4.0
+24947.0,Kevin Sessa,5.0
+24959.0,Enzo Le Fée,4.0
+25039.0,Nathan Ngoumou Minpole,0.0
+25040.0,Kouadio Emmanuel Koné,4.0
+25100.0,Jean Lucas de Souza Oliveira,5.0
+25118.0,Iago Amaral Borduchi,4.0
+25142.0,Bruno Guimarães Rodriguez Moura,4.0
+25153.0,Matheus Soares Thuler,4.0
+25295.0,Caio Henrique Oliveira Silva,0.0
+26063.0,Jens-Lys Michel Cajuste,4.0
+26186.0,Bartholomew Owogbalor Ogbeche,4.0
+26304.0,Adrián Nicolás Luna Retamar,4.0
+26565.0,Bruno Edgar Silva Almeida,4.0
+26571.0,Alberto Noguera Ripoll,4.0
+26675.0,João Victor de Albuquerque Bruno,4.0
+26754.0,Eduardo Bedia Peláez,0.0
+27116.0,Alan Henrique Costa,0.0
+27133.0,Odilon Kossonou,0.0
+27473.0,Deiver Andrés Machado Mena,4.0
+28239.0,Adam Hložek,0.0
+28251.0,Jorge Rolando Pereyra Díaz,4.0
+28266.0,Rafael Santos Borré Amaury,4.0
+28268.0,Exequiel Alejandro Palacios,4.0
+28346.0,Eric Junior Dina Ebimbe,4.0
+28376.0,Jim Allevinah,4.0
+28573.0,Felix Agu,4.0
+28603.0,Philipp Hofmann,4.0
+28805.0,Jamie Leweling,4.0
+28914.0,Lovro Majer,4.0
+29163.0,Josip Juranović,4.0
+29227.0,Leonidas Stergiou,4.0
+29353.0,Cédric Zesiger,4.0
+29594.0,Gabriel Gudmundsson,4.0
+29595.0,Ko Itakura,4.0
+29664.0,Jodel Dossou,4.0
+29682.0,Rasmus Carstensen,4.0
+29712.0,Ibrahima Koné,4.0
+29760.0,Erhan Mašović,4.0
+29786.0,Elbasan Rashani,4.0
+29906.0,Aster Vranckx,0.0
+29962.0,Nathanaël Mbuku,4.0
+29966.0,Ui-Jo Hwang,4.0
+29969.0,Joris Chotard,4.0
+29989.0,Yusuf Yazıcı,4.0
+30040.0,Nuno Albertino Varela Tavares,4.0
+30193.0,Gedeon Kalulu Kyatengwa,4.0
+30360.0,Mohamed Simakan,4.0
+30401.0,Ruben Vargas,4.0
+30447.0,Jean-Armel Kana-Biyik,4.0
+30533.0,Noah Fadiga,4.0
+30606.0,Edmond Fayçal Tapsoba,0.0
+30682.0,Alexis Flips,4.0
+30742.0,Fabian Nürnberger,2.0
+31015.0,Abdu Conté,4.0
+31029.0,Salis Abdul Samed,0.0
+31031.0,Adil Aouchiche,4.0
+31039.0,Yroundu Musavu-King,4.0
+31308.0,Marshall Nyasha Munetsi,4.0
+31310.0,Jan-Niklas Beste,4.0
+31744.0,Adrian Beck,4.0
+32015.0,Hichem Boudaoui,4.0
+32028.0,Lucas Perrin,4.0
+32289.0,Victor Okoh Boniface,4.0
+32394.0,Khassa Camara,0.0
+32481.0,Muhammed Cham Saracevic,4.0
+32537.0,Yorbe Vertessen,4.0
+32649.0,Mathis Rayan Cherki,4.0
+32712.0,Jeremie Frimpong,4.0
+32900.0,Mateus Cardoso Lemos Martins,4.0
+32945.0,Franjo Prce,0.0
+32952.0,Moussa Diarra,4.0
+33151.0,Lucas Da Cunha,5.0
+33158.0,Maxence Caqueret,0.0
+33221.0,Melvin Bard,0.0
+33233.0,Leonardo Julián Balerdi Rossa,4.0
+33241.0,Djed Spence,4.0
+33401.0,Amine Adli,4.0
+33419.0,Joel Joseph Chianese,4.0
+33487.0,Dylan Fox,0.0
+33500.0,Jordan Murray,0.0
+33638.0,Tomislav Mrčela,0.0
+34146.0,Deshorn Brown,4.0
+34164.0,Patrick Flottmann,0.0
+34335.0,Terem Igobor Moffi,4.0
+34639.0,Vitor Machado Ferreira,4.0
+34793.0,Yasser Larouci,4.0
+34865.0,El Bilal Toure,4.0
+34870.0,Nick Woltemade,4.0
+35039.0,Iván Garrido González,0.0
+35242.0,Maximilian Beier,4.0
+35277.0,Yvann Macon,4.0
+35447.0,Jean Emile Junior Onana Onana,4.0
+35705.0,Arnaud Kalimuendo Muinga,4.0
+35718.0,Youssouf Ndayishimiye,0.0
+36830.0,Joseph Scally,0.0
+36995.0,David Pereira da Costa,4.0
+37498.0,Ado Onaiwu,4.0
+38004.0,Piero Martín Hincapié Reyna,4.0
+38009.0,Kevin Paredes,0.0
+38759.0,Benjamin Šeško,4.0
+38815.0,Thierno Balde,4.0
+38917.0,Tom Krauß,1.0
+38991.0,Eric Martel,4.0
+39092.0,Ian Maatsen,4.0
+39120.0,Flavius Daniliuc,4.0
+39160.0,Bartol Franjić,4.0
+39167.0,Xavi Simons,4.0
+39420.0,Bradley Barcola,4.0
+39460.0,Nicolas Seiwald,4.0
+39469.0,Konrad De La Fuente,5.0
+39517.0,Timothee Pembele,4.0
+39565.0,Jamal Musiala,4.0
+40724.0,Florian Wirtz,4.0
+40807.0,Mickaël Nade,0.0
+41052.0,Fali Candé,4.0
+41092.0,Nuno Mendes,4.0
+41411.0,Nathan Tella,4.0
+41749.0,Thijs Dallinga,4.0
+41783.0,Tiago Barreiros de Melo Tomás,4.0
+41858.0,Javier Siverio Toro,0.0
+42543.0,Oscar Vilhelmsson,4.0
+42754.0,Amin Sarr,0.0
+42822.0,András Schäfer,4.0
+43945.0,Samuel Gigot,0.0
+44060.0,Warren Kamanzi,4.0
+44198.0,Ivan Ordets,4.0
+44225.0,Osman Bukari,4.0
+44737.0,Mathys Tel,1.0
+44738.0,Lesley Chimuanya Ugochukwu,4.0
+44772.0,Batista Mendy,4.0
+45004.0,Ygor de Oliveira Ferreira,0.0
+45026.0,Adrien Truffert,4.0
+45039.0,Ilan Kebbal,4.0
+45047.0,Alidu Seidu,1.0
+45089.0,Jaouen Hadjam,4.0
+45092.0,Ousmane Camara,4.0
+45115.0,Enzo Millot,4.0
+45189.0,Evann Guessand,4.0
+45567.0,Tomáš Čvančara,4.0
+45975.0,Johann Lepenant,4.0
+46007.0,Lucas Gourna-Douath,4.0
+48031.0,Niels Nkounkou,4.0
+48240.0,Merlin Röhl,4.0
+48411.0,Kevin Spadanuda,4.0
+48500.0,Moritz Jenz,4.0
+48644.0,Anton Stach,4.0
+48655.0,Luca Pfeiffer,4.0
+48860.0,Florian Pick,5.0
+48863.0,Jan Schöppner,4.0
+48959.0,Omar Haktab Traorè,4.0
+49337.0,Josip Stanišić,4.0
+49520.0,Abdallah Dipo Sima,4.0
+49665.0,Felix Kalu Nmecha,5.0
+50429.0,Hugo Ekitike,4.0
+50498.0,Pape Matar Sarr,4.0
+51364.0,Vladimir Koman Jr.,4.0
+51825.0,Tim Breithaupt,4.0
+58878.0,Boubacar Traore,4.0
+61095.0,Sepe Elye Wahi,4.0
+66886.0,Mostafa Mohamed Ahmed Abdallah,4.0
+67007.0,Eren Sami Dinkçi,4.0
+73486.0,Nerijus Valskis,4.0
+74588.0,Christopher Wooh,0.0
+80416.0,Darren Sidoel,4.0
+83332.0,Prince Vinny Ibara Doniama,4.0
+86485.0,Edouard Michut,5.0
+86586.0,Quentin Merlin,4.0
+86899.0,William Mikelbrencis,4.0
+88123.0,Cheikh Ahmadou Bamba Mbacke Dieng,1.0
+89326.0,David Datro Fofana,4.0
+89499.0,Slavko Damjanović,0.0
+95042.0,Dango Aboubacar Faissal Ouattara,4.0
+100434.0,Liridon Krasniqi,0.0
+103464.0,Mohamed Youcef Belaïli,4.0
+104614.0,Dion Lopy,4.0
+105182.0,Lassine Sinayoko,4.0
+107911.0,Oliver Zandén,4.0
+117109.0,Antoine Mendy,4.0
+121296.0,Sacha Delaye,4.0
+124740.0,Udanta Kumam Singh,4.0
+124741.0,Manvir Singh,0.0
+124743.0,Lallianzuala Chhangte,4.0
+124745.0,Muhammad Ashique Kuruniyan,4.0
+124747.0,Rahul Bheke,0.0
+124748.0,Sunil Chhetri,0.0
+124749.0,Sandesh Jhingan,4.0
+124750.0,Sahal Abdul Samad,4.0
+124752.0,Brandon Fernandes,4.0
+124756.0,Subhasish Bose,0.0
+124759.0,Anirudh Thapa,0.0
+124760.0,Adil Khan,4.0
+124769.0,Vinit Rai Chamling,4.0
+124770.0,Mandar Rao Desai,0.0
+124772.0,Pritam Kotal,0.0
+124777.0,Narender Gahlot,0.0
+124782.0,Nikhil Poojary,4.0
+124783.0,Balwant Singh,5.0
+124902.0,Bipin Singh Thounajam,4.0
+124903.0,Akash Mishra,0.0
+124904.0,Suresh Singh Wangjam,4.0
+124905.0,Lalengmawia Ralte,0.0
+124906.0,Glan Martins,4.0
+124907.0,Liston Colaco,4.0
+124910.0,Pronay Halder,4.0
+124914.0,Ishan Pandita,1.0
+125109.0,Mohammad Yasir,4.0
+125110.0,Konsham Chinglensana Singh,0.0
+125212.0,Mirlan Murzaev,4.0
+126145.0,Raynier Fernandes,4.0
+127056.0,Nishu Kumar Tashni,4.0
+127057.0,Seminlen Doungel,4.0
+128257.0,Jackichand Singh,5.0
+131046.0,Paul Joly,4.0
+131243.0,Deniz Undav,4.0
+132019.0,El Chadaille Bitshiabu,0.0
+132418.0,Bradley Locko,0.0
+132796.0,Alexsandro Victor de Souza Ribeiro,4.0
+133208.0,Patrick Osterhage,0.0
+133483.0,Lennard Maloney,4.0
+133696.0,Marcelo Ribeiro dos Santos,0.0
+134880.0,Faride Alidou,4.0
+140589.0,Aleksandar Pavlović,4.0
+143728.0,Hugo Larsson,4.0
+144059.0,Warren Zaire Emery,4.0
+144884.0,Maghnes Akliouche,4.0
+151924.0,Wilson Odobert,4.0
+153361.0,Matej Maglica,4.0
+159764.0,Jorge Ortiz Mendoza,0.0
+159765.0,Cássio Gabriel Vilela Ferreira,4.0
+159767.0,Amey Ganesh Ranawade,0.0
+159769.0,Mohamad Rakip,0.0
+159770.0,Serigne Mourtada Fall,5.0
+159771.0,Ahmed Jahouh,0.0
+159772.0,Vignesh Dakshinamurthy,0.0
+159773.0,Vikram Pratap Singh,4.0
+159774.0,Gurkirat Singh,5.0
+159776.0,Sanson Pereira,0.0
+159777.0,Leander D''Cunha,0.0
+159778.0,Seriton Fernandes,0.0
+159779.0,Saviour Gama,4.0
+159780.0,Aibanbha Kupar Dohling,4.0
+159781.0,Princeton Rebello,4.0
+159782.0,Alexander Romario Jesuraj,4.0
+159783.0,Devendra Dhaku Murgaokar,4.0
+159788.0,Nongdamba Singh Naorem,0.0
+161091.0,Daniel Chima Chukwu,4.0
+161092.0,Amir Derviševič,0.0
+161093.0,Bikash Jairu,4.0
+161094.0,Mohammed Rafique,4.0
+161095.0,Wahengbam Angousana Luwang,4.0
+161098.0,Boris Singh Thangjam,4.0
+161100.0,Laldinliana Renthlei,0.0
+161101.0,PC Laldinpuia,4.0
+161102.0,Eli Sabia Filho,0.0
+161103.0,Mohammad Mobashir Rahman,4.0
+161104.0,Jitendra Singh,4.0
+161105.0,Komal Thatal,4.0
+161106.0,Amarjit Singh Kiyam Singh,4.0
+161107.0,Arindam Bhattacharja,1.0
+161108.0,Hira Mondal,0.0
+161109.0,Sourav Das,4.0
+161110.0,Lalrinliana Hnamte,4.0
+161111.0,Antonio Perošević,4.0
+161112.0,Joyner Lourenco,4.0
+161113.0,Daniel Gomes,4.0
+161114.0,Thongkhosiem Haokip,0.0
+161116.0,Alexandre Monteiro de Lima,0.0
+161117.0,Ritwik Kumar Das,4.0
+161995.0,Jamie Jermaine Bynoe-Gittens,4.0
+162201.0,Víctor Mongil Adeva,0.0
+162203.0,Pratik Prabhakar Chaudhari,0.0
+162204.0,Ajith Kumar,4.0
+162205.0,Iman Basafa,0.0
+162206.0,Danish Farooq Bhat,4.0
+162207.0,Jayesh Dilip Rane,4.0
+162208.0,Naorem Roshan Singh,0.0
+162209.0,Cleiton Augusto Oliveira Silva,4.0
+162211.0,Damaitphang Lyngdoh,3.0
+162212.0,Lalruatthara Lalruatthara,4.0
+162213.0,Hendry Antonay,0.0
+162214.0,Jerry Mawihmingthanga,0.0
+162215.0,Nandhakumar Sekar,4.0
+162216.0,Moirangthem Thoiba Singh,4.0
+162217.0,Isak Vanlalruatfela,0.0
+162218.0,Lalhrezuala Sailung,4.0
+162219.0,Isaac Vanmalsawma Chhakchhuak,4.0
+162221.0,Daniel Lalhlimpuia,4.0
+162222.0,Gaurav Bora,1.0
+162223.0,Sebastian Thangmuansang,4.0
+162748.0,Provat Lakra,0.0
+162749.0,Gurjinder Kumar,0.0
+162750.0,Mashoor Shereef Thangalakath,0.0
+162751.0,Rochharzela Rochharzela,4.0
+162752.0,Pragyan Sundar Gogoi,4.0
+162753.0,Suhair Vadakkepeedika,4.0
+162754.0,Mirshad Koottappunna,5.0
+162755.0,Mohammed Irshad,4.0
+162756.0,Sehnaj Singh,4.0
+162760.0,William Lalnunfela,5.0
+162761.0,Laldanmawia Ralte,4.0
+162762.0,Mathias Coureur,0.0
+162763.0,Jestin George,0.0
+163335.0,Chencho Gyeltshen,0.0
+163337.0,Ashutosh Mehta,0.0
+163338.0,Sumit Rathi,4.0
+163339.0,Prabir Das,5.0
+163340.0,Deepak Tangri,4.0
+163342.0,Hugo Adnan Boumous,4.0
+163343.0,Lenny Rodrigues,4.0
+163344.0,Roy Krishna,0.0
+163345.0,David Joel Williams,4.0
+163346.0,Albino Gomes,4.0
+163349.0,Yendrembam Denechandra Meitei,4.0
+163350.0,Jessel Carneiro,0.0
+163351.0,Soraisham Sandeep Singh,5.0
+163352.0,Prasanth Karuthadathkuni,0.0
+163354.0,Rahul Kannoly Praveen,4.0
+163355.0,Jeakson Singh Thaunaojam,0.0
+163356.0,Harmanjot Singh Khabra,0.0
+163357.0,Lalthathanga Khawlhring,4.0
+163358.0,Ayush Adhikari,4.0
+163359.0,Bijoy Varghese,4.0
+163362.0,Kiyan Nassiri Giri,0.0
+164338.0,Enes Sipović,4.0
+164339.0,Vincy Barretto,4.0
+164340.0,Federico Gallego Revetria,5.0
+164341.0,Lalkhawpuimawia Lalkhawpuimawia,4.0
+164476.0,Łukasz Gikiewicz,4.0
+164478.0,Nim Dorjee Tamang,0.0
+164479.0,Khumanthem Ninthoinganba Meetei,4.0
+164481.0,Narayan Das,0.0
+164483.0,Juan Antonio González Fernández,0.0
+164485.0,Asish Rai,0.0
+164486.0,Eduardo García Martín,4.0
+164487.0,Sahil Tavora,5.0
+164488.0,Hitesh Sharma,4.0
+164489.0,Halicharan Narzary,1.0
+164490.0,Souvik Chakrabarti,4.0
+164491.0,Rohit Danu,4.0
+164493.0,Keisham Reagan Singh,4.0
+164494.0,Salam Ranjan Singh,0.0
+164495.0,Edwin Sydney Vanspaul,4.0
+164496.0,Jerry Lalrinzuala,0.0
+164499.0,Rahim Ali,4.0
+164500.0,Jobby Justin,4.0
+164501.0,Syed Suhail Pasha,4.0
+165324.0,Makan Winkle Chote,4.0
+165325.0,Muhammed Nemil Valiyattil,4.0
+166021.0,Abdul Rabeeh,4.0
+166022.0,Aniket Anil Jadhav,4.0
+166424.0,Raju Eknath Gaikwad,4.0
+166425.0,Naorem Mahesh Singh,4.0
+166558.0,Hormipam Ruivah,0.0
+166559.0,Sanjeev Stalin,0.0
+166560.0,Wungngayam Muirang,4.0
+166561.0,Ajay Chhetri,0.0
+166562.0,Edmund Lalrindika,0.0
+167009.0,Germanpreet Singh,4.0
+167382.0,Nikhil Raj Murugesh Kumar,0.0
+168197.0,Imran Khan,4.0
+168198.0,Joe Zoherliana,5.0
+170069.0,Parag Satish Shrivas,4.0
+170219.0,Mohamed Ali,4.0
+170691.0,José Luis Espinosa Arroyo,0.0
+171646.0,Paul Ramfangzauva,4.0
+171899.0,Namgyal Bhutia,4.0
+174498.0,Martin Adeline,5.0
+175653.0,Moirangthem Givson Singh,4.0
+177427.0,Mark Zothanpuia,5.0
+177869.0,Sandip Mandi,1.0
+179263.0,Sahil Panwar,4.0
+179458.0,Mohammad Sajid Dhot,5.0
+179491.0,Redeem Tlang,4.0
+180057.0,Ankit Mukherjee,0.0
+181010.0,Sael Kumbedi Nseke,4.0
+181868.0,Anisa Anwar Ali,5.0
+185754.0,Subha Ghosh,4.0
+187212.0,Marcelo Leite Pereira,0.0
+188297.0,Naocha Huidrom Singh,0.0
+188748.0,Amine Salama,5.0
+190483.0,Francisco José Sota Bernard,4.0
+192018.0,Diego Maurício Machado de Brito,0.0
+195264.0,Rahul Kumar Paswan,4.0
+196651.0,Arthur Augusto de Matos Soares,4.0
+214013.0,Désiré Doué,4.0
+217047.0,Fares Chaïbi,4.0
+251293.0,Umut Tohumcu,4.0
+261630.0,Gustavo Adolfo Puerta Molano,1.0
+282348.0,Fabio Torsiello,5.0
+291796.0,Jean-Mattéo Bahoya Négoce,4.0
+297024.0,Tim Oermann,1.0
+300704.0,Denis Huseinbašić,4.0
+316237.0,Mert Kömür,4.0
+350489.0,Ivane Chegra,0.0
+363583.0,Brajan Gruda,4.0
+405983.0,Max Finkgräfe,4.0
